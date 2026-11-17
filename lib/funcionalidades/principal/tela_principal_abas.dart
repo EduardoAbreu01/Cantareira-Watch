@@ -68,7 +68,6 @@ class _TelaPrincipalAbasState extends State<TelaPrincipalAbas> {
 
     return EstruturaTelaPadrao(
       titulo: _titulosTelas[_indiceSelecionado],
-      subtitulo: 'Sistema Cantareira • RMSP',
       acoes: [
         Semantics(
           button: true,
