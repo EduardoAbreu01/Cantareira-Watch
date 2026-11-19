@@ -121,7 +121,6 @@ Os alertas são disparados por um motor de regras determinísticas e preditivas 
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/EduardoAbreu01/Cantareira-Watch.git
-   cd gs_cross
    ```
 
 2. **Instale as dependências do projeto:**
@@ -148,7 +147,7 @@ Os alertas são disparados por um motor de regras determinísticas e preditivas 
 
 Assista à demonstração completa das telas, dashboards, geração dinâmica de alertas, formulário offline e acessibilidade:
 
-* **Link do vídeo:** []
+* **Link do vídeo:** https://www.youtube.com/watch?v=QCs1JAzS6us
 
 ---
 
